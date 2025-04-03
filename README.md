@@ -1,4 +1,7 @@
-# Pose2Sim Tools (Pose3D)
+# Pose3D
+Framework for the [Pose2Sim](https://github.com/perfanalytics/pose2sim?tab=readme-ov-file) method to build a 3D biomechanical simulation model for OpenSim.
+
+Including tools for Recording and Extrinsic Calibration of multiple Realsense D435i cameras.
 
 ## Installation
 #### 1. Anaconda
