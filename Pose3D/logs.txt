@@ -1,0 +1,56 @@
+
+---------------------------------------------------------------------
+Camera calibration
+On Tuesday 11. March 2025, 13:07:10
+Calibration directory: C:\git\pose2sim\Pose3D\Demo_Test_calib
+---------------------------------------------------------------------
+
+
+Calculating intrinsic parameters...
+Error: No C:\git\pose2sim\Pose3D\calibration.py\intrinsics folder found.
+Traceback (most recent call last):
+  File "c:\git\pose2sim\Pose3D\calibration.py", line 151, in calibrate_intrinsics
+    intrinsics_cam_listdirs_names = next(os.walk(os.path.join(calib_dir, 'intrinsics')))[1]
+StopIteration
+
+---------------------------------------------------------------------
+Camera calibration
+On Tuesday 11. March 2025, 13:07:20
+Calibration directory: C:\git\pose2sim\Pose3D\Demo_Test_calib
+---------------------------------------------------------------------
+
+
+Calculating intrinsic parameters...
+Error: No C:\git\pose2sim\Pose3D\calibration.py\intrinsics folder found.
+Traceback (most recent call last):
+  File "c:\git\pose2sim\Pose3D\calibration.py", line 151, in calibrate_intrinsics
+    intrinsics_cam_listdirs_names = next(os.walk(os.path.join(calib_dir, 'intrinsics')))[1]
+StopIteration
+
+---------------------------------------------------------------------
+Camera calibration
+On Tuesday 11. March 2025, 13:09:43
+Calibration directory: C:\git\pose2sim\Pose3D\Demo_Test_calib
+---------------------------------------------------------------------
+
+
+Calculating intrinsic parameters...
+Error: No C:\git\pose2sim\Pose3D\calibration.py\intrinsics folder found.
+Traceback (most recent call last):
+  File "c:\git\pose2sim\Pose3D\calibration.py", line 151, in calibrate_intrinsics
+    intrinsics_cam_listdirs_names = next(os.walk(os.path.join(calib_dir, 'intrinsics')))[1]
+StopIteration
+
+---------------------------------------------------------------------
+Camera calibration
+On Tuesday 11. March 2025, 13:13:10
+Calibration directory: C:\git\pose2sim\Pose3D\Demo_Test_calib
+---------------------------------------------------------------------
+
+
+Calculating intrinsic parameters...
+Error: No C:\git\pose2sim\Pose3D\calibration.py\intrinsics folder found.
+Traceback (most recent call last):
+  File "c:\git\pose2sim\Pose3D\calibration.py", line 151, in calibrate_intrinsics
+    intrinsics_cam_listdirs_names = next(os.walk(os.path.join(calib_dir, 'intrinsics')))[1]
+StopIteration

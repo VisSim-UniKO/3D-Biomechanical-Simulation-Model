@@ -1,0 +1,9 @@
+###############################################################################
+## PROJECT PARAMETERS                                                        ##
+###############################################################################
+
+# Overwrite parameters for a specific trial/participant.
+
+[project]
+participant_height = 1.72
+participant_mass = 58

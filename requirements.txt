@@ -1,0 +1,6 @@
+pose2sim
+pandas>=1.5.0
+numpy>=1.22.4
+openpyxl
+argparse
+pyrealsense2

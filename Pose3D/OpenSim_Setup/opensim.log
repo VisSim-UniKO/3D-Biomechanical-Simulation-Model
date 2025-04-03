@@ -1,0 +1,83 @@
+[2025-02-18 08:42:11.997] [info] Updating Model file from 40000 to latest format...
+[2025-02-18 08:42:12.091] [info] Loaded model Pose2Sim_WithContactsAndMuscles_OpenPose from file C:\git\pose2sim\Pose3D\OpenSim_Setup\Model_Pose2Sim_Halpe26.osim
+[2025-02-18 10:10:48.726] [info] Loaded model Pose2Sim_scaled from file C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.osim
+[2025-02-18 10:10:52.965] [info] Storage: read data file = C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.mot (nr=154 nc=63)
+[2025-02-18 10:10:53.027] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:10:53.028] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:11:43.728] [info] Creating states from motion storage...
+[2025-02-18 10:11:43.787] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:11:43.787] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:11:48.591] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:11:48.623] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:11:54.651] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics
+[2025-02-18 10:11:54.652] [info] OutputReporter.printResults: 
+[2025-02-18 10:13:34.138] [info] Creating states from motion storage...
+[2025-02-18 10:13:38.961] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:13:39.004] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:13:44.954] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\test
+[2025-02-18 10:13:44.955] [info] OutputReporter.printResults: 
+[2025-02-18 10:16:52.847] [info] Creating states from motion storage...
+[2025-02-18 10:16:57.769] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:16:57.808] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:17:04.335] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics
+[2025-02-18 10:17:04.336] [info] OutputReporter.printResults: 
+[2025-02-18 10:25:22.680] [info] Creating states from motion storage...
+[2025-02-18 10:25:27.516] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:25:27.557] [info] Executing the analyses from 0.0 to 5.0...
+[2025-02-18 10:26:10.502] [info] Creating states from motion storage...
+[2025-02-18 10:26:15.266] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:26:15.306] [info] Executing the analyses from 0.0 to 5.0...
+[2025-02-18 10:26:21.017] [info] Printing results of investigation jumper to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\test
+[2025-02-18 10:26:21.018] [info] OutputReporter.printResults: 
+[2025-02-18 10:32:41.831] [info] Loaded model Pose2Sim_scaled from file C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.osim
+[2025-02-18 10:32:48.052] [info] Storage: read data file = C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.mot (nr=154 nc=63)
+[2025-02-18 10:32:48.113] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:32:48.113] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:33:51.231] [info] Creating states from motion storage...
+[2025-02-18 10:33:51.290] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:33:51.290] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:33:55.984] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:33:56.023] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:34:01.775] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics
+[2025-02-18 10:34:01.775] [info] OutputReporter.printResults: 
+[2025-02-18 10:36:25.977] [info] Loaded model Pose2Sim_scaled from file C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.osim
+[2025-02-18 10:36:29.232] [info] Storage: read data file = C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.mot (nr=154 nc=63)
+[2025-02-18 10:36:29.294] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:36:29.294] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:43:51.517] [info] Loaded model Pose2Sim_scaled from file C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.osim
+[2025-02-18 10:43:57.511] [info] Storage: read data file = C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.mot (nr=154 nc=63)
+[2025-02-18 10:43:57.576] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:43:57.577] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:44:48.877] [info] Creating states from motion storage...
+[2025-02-18 10:44:48.937] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:44:48.937] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:44:53.943] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:44:53.996] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:45:00.059] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics
+[2025-02-18 10:45:00.059] [info] OutputReporter.printResults: 
+[2025-02-18 10:45:30.630] [info] Loaded model Pose2Sim_scaled from file C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.osim
+[2025-02-18 10:45:38.342] [info] Storage: read data file = C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.mot (nr=154 nc=63)
+[2025-02-18 10:45:38.418] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:45:38.418] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:46:33.166] [info] Creating states from motion storage...
+[2025-02-18 10:46:33.227] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:46:33.227] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:46:38.223] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:46:38.274] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:46:44.421] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics
+[2025-02-18 10:46:44.422] [info] OutputReporter.printResults: 
+[2025-02-18 10:49:17.248] [info] Loaded model Pose2Sim_scaled from file C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.osim
+[2025-02-18 10:49:21.828] [info] Storage: read data file = C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics\E-squat_0-154_filt_butterworth.mot (nr=154 nc=63)
+[2025-02-18 10:49:21.893] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:49:21.893] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:50:19.614] [info] Creating states from motion storage...
+[2025-02-18 10:50:19.674] [warning] Coordinate.setValue:  coordinate pro_sup_r is locked. Unable to change its value.
+[2025-02-18 10:50:19.674] [warning] Coordinate.setValue:  coordinate pro_sup_l is locked. Unable to change its value.
+[2025-02-18 10:50:24.730] [info] No external loads will be applied (external loads file not specified).
+[2025-02-18 10:50:24.781] [info] Executing the analyses from 0.0 to 5.1...
+[2025-02-18 10:50:30.886] [info] Printing results of investigation Pose2Sim_scaled to C:\git\pose2sim\Pose3D\Demo_Batch_Squats\E-squat\kinematics
+[2025-02-18 10:50:30.886] [info] OutputReporter.printResults: 
+[2025-02-19 14:11:58.491] [info] Updating Model file from 40000 to latest format...
+[2025-02-19 14:11:58.586] [info] Loaded model Pose2Sim_WithContactsAndMuscles_OpenPose from file C:\git\pose2sim\Pose3D\OpenSim_Setup\Model_Pose2Sim_Halpe26.osim
+[2025-02-19 14:16:58.924] [info] Updating Model file from 40000 to latest format...
+[2025-02-19 14:16:58.939] [info] Loaded model Catelli_high_hip_flexion_V4.0 from file C:\Users\blome\Downloads\Catelli_high_hip_flexion_V4.0\Catelli_high_hip_Flexion_V4.0\Catelli-V4.0_Nu.osim
